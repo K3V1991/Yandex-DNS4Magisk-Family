@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/XFxp7k8/Yandex.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Yandex-DNS4Magisk-Family/blob/main/Yandex.png" width="200"></a>
 <h1 align="center"><b>YandexDNS4Magisk Family</b></h1>
 <h4 align="center">This Module makes your Device to use Yandex DNS Servers</h4>
 <br />
